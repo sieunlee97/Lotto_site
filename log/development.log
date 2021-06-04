@@ -1,0 +1,327 @@
+Started GET "/" for 172.17.0.1 at 2021-06-04 05:49:56 +0000
+Cannot render console from 10.1.20.239! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (6.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/lib/ruby/gems/2.6.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/lib/ruby/gems/2.6.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 10.6ms | Allocations: 473)
+Completed 200 OK in 107ms (Views: 94.0ms | ActiveRecord: 0.0ms | Allocations: 3011)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 05:50:21 +0000
+Cannot render console from 10.1.20.239! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 83)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /workspace/lotto_site/public/packs
+[Webpacker] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+[Webpacker] Hash: 15d1bb7b54cf6326b9ba
+Version: webpack 4.43.0
+Time: 16292ms
+Built at: 2021-06-04 5:50:47 ├F10: AM┤
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-9afcbb5693aa87623e69.js    124 KiB  application  [emitted] [immutable]  application
+js/application-9afcbb5693aa87623e69.js.map    139 KiB  application  [emitted] [dev]        application
+                             manifest.json  364 bytes               [emitted]              
+Entrypoint application = js/application-9afcbb5693aa87623e69.js js/application-9afcbb5693aa87623e69.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 749 bytes {application} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 3 hidden modules
+
+Completed 200 OK in 25838ms (Views: 25833.0ms | ActiveRecord: 0.0ms | Allocations: 17649)
+
+
+Started GET "/" for 172.17.0.1 at 2021-06-04 05:53:57 +0000
+Cannot render console from 10.1.20.239! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/lib/ruby/gems/2.6.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/lib/ruby/gems/2.6.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 56.6ms | Allocations: 185)
+Completed 200 OK in 59ms (Views: 57.5ms | ActiveRecord: 0.0ms | Allocations: 1151)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 05:54:02 +0000
+Cannot render console from 10.1.20.239! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 102)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 44ms (Views: 41.0ms | ActiveRecord: 0.0ms | Allocations: 5019)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 05:54:33 +0000
+Cannot render console from 10.1.20.239! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 84ms (Views: 82.4ms | ActiveRecord: 0.0ms | Allocations: 4140)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 05:58:15 +0000
+Cannot render console from 10.1.20.239! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 111)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 25ms (Views: 16.4ms | ActiveRecord: 0.0ms | Allocations: 5005)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 05:58:18 +0000
+Cannot render console from 10.1.20.239! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 14)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 26ms (Views: 25.6ms | ActiveRecord: 0.0ms | Allocations: 4018)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 05:58:59 +0000
+Cannot render console from 10.1.20.239! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 106)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 13ms (Views: 11.4ms | ActiveRecord: 0.0ms | Allocations: 4997)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 05:59:02 +0000
+Cannot render console from 10.1.20.239! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 14.5ms | Allocations: 13)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 21ms (Views: 20.8ms | ActiveRecord: 0.0ms | Allocations: 4019)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:01:55 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 86)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 17ms (Views: 15.3ms | ActiveRecord: 0.0ms | Allocations: 5009)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:02:44 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 183)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 14.9ms | ActiveRecord: 0.0ms | Allocations: 5118)
+
+
+Started GET "/" for 172.17.0.1 at 2021-06-04 06:08:23 +0000
+Cannot render console from 10.1.20.239! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/lib/ruby/gems/2.6.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/lib/ruby/gems/2.6.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 21.3ms | Allocations: 308)
+Completed 200 OK in 67ms (Views: 46.0ms | ActiveRecord: 0.0ms | Allocations: 2067)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:08:29 +0000
+Cannot render console from 10.1.20.239! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 186)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 163ms (Views: 161.9ms | ActiveRecord: 0.0ms | Allocations: 15230)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:08:32 +0000
+Cannot render console from 10.1.20.239! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 17)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 16ms (Views: 15.2ms | ActiveRecord: 0.0ms | Allocations: 4030)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:11:11 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 178)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 35ms (Views: 21.6ms | ActiveRecord: 0.0ms | Allocations: 5119)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:11:48 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 183)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 27ms (Views: 25.6ms | ActiveRecord: 0.0ms | Allocations: 5148)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:12:02 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 179)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 19ms (Views: 17.4ms | ActiveRecord: 0.0ms | Allocations: 5114)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:12:10 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 22.1ms | Allocations: 179)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 74ms (Views: 60.0ms | ActiveRecord: 0.0ms | Allocations: 5112)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:12:16 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 2.1ms | Allocations: 16)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 58ms (Views: 56.6ms | ActiveRecord: 0.0ms | Allocations: 4026)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:13:05 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 186)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 46ms (Views: 38.4ms | ActiveRecord: 0.0ms | Allocations: 5122)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:13:15 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 187)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 102ms (Views: 94.3ms | ActiveRecord: 0.0ms | Allocations: 5123)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:13:26 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 16)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 26ms (Views: 9.0ms | ActiveRecord: 0.0ms | Allocations: 4028)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:13:27 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 16)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 24ms (Views: 21.8ms | ActiveRecord: 0.0ms | Allocations: 4031)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:13:59 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 182)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 18ms (Views: 16.6ms | ActiveRecord: 0.0ms | Allocations: 5115)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:14:00 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 16)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms | Allocations: 4020)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:14:08 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 182)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 35ms (Views: 33.3ms | ActiveRecord: 0.0ms | Allocations: 5110)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:15:43 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 187)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 89ms (Views: 35.6ms | ActiveRecord: 0.0ms | Allocations: 5133)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:15:52 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 38.4ms | Allocations: 182)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 51ms (Views: 50.5ms | ActiveRecord: 0.0ms | Allocations: 5126)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:15:53 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 26.8ms | Allocations: 16)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 33ms (Views: 31.9ms | ActiveRecord: 0.0ms | Allocations: 4038)
+
+
+Started GET "/" for 172.17.0.1 at 2021-06-04 06:29:22 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (8.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/lib/ruby/gems/2.6.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/lib/ruby/gems/2.6.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 16.3ms | Allocations: 308)
+Completed 200 OK in 45ms (Views: 24.2ms | ActiveRecord: 0.0ms | Allocations: 2077)
+
+
+Started GET "/" for 172.17.0.1 at 2021-06-04 06:31:46 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (3.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/lib/ruby/gems/2.6.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/lib/ruby/gems/2.6.0/gems/railties-6.0.3.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 21.6ms | Allocations: 308)
+Completed 200 OK in 68ms (Views: 30.2ms | ActiveRecord: 0.0ms | Allocations: 2077)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:31:50 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 1.7ms | Allocations: 198)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 47ms (Views: 45.2ms | ActiveRecord: 0.0ms | Allocations: 7256)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:31:53 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 17)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 63ms (Views: 61.6ms | ActiveRecord: 0.0ms | Allocations: 4038)
+
+
+Started GET "/go" for 172.17.0.1 at 2021-06-04 06:31:54 +0000
+Cannot render console from 10.1.21.240! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by LottoController#index as HTML
+  Rendering lotto/index.html.erb within layouts/application
+  Rendered lotto/index.html.erb within layouts/application (Duration: 14.3ms | Allocations: 17)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 33ms (Views: 31.1ms | ActiveRecord: 0.0ms | Allocations: 4027)
+
+
